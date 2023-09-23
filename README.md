@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my name is Mahmoud Elmaghraby</h1>
+<h1 align="center">Hey 👋, my name is Mahmoud Elmaghraby</h1>
 <h3 align="center">I'm a passionate self-taught web developer👾</h3>
 
 - 👨‍💻 All of my projects are available at [https://maghrabyy.netlify.app/](https://maghrabyy.netlify.app/)
