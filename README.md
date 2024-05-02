@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Elmaghraby</h1>
 <h3 align="center">A passionate software developer 👾</h3>
 
-- 🔭 I’m currently working on [Pixel Arcade](https://github.com/maghrabyy/pixel-arcade)
+- 🔭 I’m currently working on [Music Store - eCommerce](https://github.com/maghrabyy/reactjs-ecommerce)
 
 - 🌱 I’m currently learning **React & React Native**
 
