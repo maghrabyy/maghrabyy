@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Elmaghraby</h1>
 <h3 align="center">A passionate software developer 👾</h3>
 
-- 🔭 I’m currently working on [Music Store - ReactJS eCommerce](https://github.com/maghrabyy/reactjs-ecommerce)
+  - 🔭 I’m currently working on [Market Hive - ITI Graduation Project](https://github.com/maghrabyy/markethive-mobile)
 
-- 🌱 I’m currently learning **React & React Native**
+- 🌱 I’m currently learning **NextJS & React Native**
 
 - 👨‍💻 All of my projects are available at [https://maghrabyy.netlify.app/](https://maghrabyy.netlify.app/)
 
