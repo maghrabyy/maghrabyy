@@ -3,7 +3,7 @@
 
   - 🔭 I’m currently working on [Market Hive - ITI Graduation Project](https://github.com/maghrabyy/markethive-mobile)
 
-- 🌱 I’m currently learning **NextJS & React Native**
+- 🌱 I’m currently learning **NodeJS & ExpressJS**
 
 - 👨‍💻 All of my projects are available at [https://maghrabyy.netlify.app/](https://maghrabyy.netlify.app/)
 
