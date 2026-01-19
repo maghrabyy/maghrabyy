@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **mahmoud.elmaghraby11@gmail.com**
+- 📫 How to reach me [https://maghh.dev/](https://maghh.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
